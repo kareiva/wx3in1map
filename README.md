@@ -1,5 +1,7 @@
 # WX3in1 APRS Digipeater/I-Gate map visualizer
 
+![image](/kryzkalnis.png#right)
+
 Mapper/visualizer of the `/stations.shtml` file produced by the 
 [WX3in1 Plus 2.0](https://microsat.com.pl/product_info.php?products_id=100)
 APRS Advanced Digipeater/I-Gate.
@@ -16,6 +18,8 @@ bigger the circle's radius. Simple.
 ## Why?
 
 I hated the table view of WX3in1 RF heard stations page. So here's a map view.
+
+See a working example of this code [here](https://ly1bwb.vhf.lt/map/dist/).
 
 ## How?
 
